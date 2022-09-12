@@ -8,6 +8,9 @@ const HikenJos = {
   challenge: "I'm doing personal projects focused on react & typescript",
 }
 ```
+You can find me in
+-[Linkedin](https://www.linkedin.com/in/josesandoval01/)
+
 
 <!--
 **HikenJos/Hikenjos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
