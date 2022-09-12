@@ -1,5 +1,5 @@
 ### Hi there,  Engineer👨‍💻 WebDev🌐  Avenger🦸‍♂️ Slytherin🐉 Geek👾
-![me](https://scontent.fbaq2-2.fna.fbcdn.net/v/t1.6435-9/31093427_10215895174993683_3689626204345729024_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=2f2PMELQlVAAX9qx3bF&_nc_ht=scontent.fbaq2-2.fna&oh=00_AT9CuaZebLs6VGLD7HZO4Dn1yYKjc-WLsUKcJfWnLHotFQ&oe=6345B942)
+![me](https://media-exp1.licdn.com/dms/image/C4E16AQESfA73B6FbNg/profile-displaybackgroundimage-shrink_350_1400/0/1613882782023?e=1668643200&v=beta&t=2qSSqEl7_i1g_r1GFi805Hwh4dAQpGuhBqJFyN5gLTU)
 ```js
 const HikenJos = {
   pronouns: "he" | "him",
