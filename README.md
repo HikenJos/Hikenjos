@@ -1,5 +1,5 @@
 ### Hi there,  Engineer👨‍💻 WebDev🌐  Avenger🦸‍♂️ Slytherin🐉 Geek👾
-![me](https://media-exp1.licdn.com/dms/image/C4E16AQESfA73B6FbNg/profile-displaybackgroundimage-shrink_350_1400/0/1613882782023?e=1668643200&v=beta&t=2qSSqEl7_i1g_r1GFi805Hwh4dAQpGuhBqJFyN5gLTU)
+![https://www.linkedin.com/in/josesandoval01/](https://user-images.githubusercontent.com/25781463/212071127-86973148-f6f0-4ba0-9399-2cda4b044ede.png)
 ```js
 const HikenJos = {
   pronouns: "he" | "him",
