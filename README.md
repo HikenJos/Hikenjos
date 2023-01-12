@@ -6,6 +6,7 @@ const HikenJos = {
   code: [JavaScript, TypeScript, Html, Css],
   tools: [React, NextJS, Flutter, Node, Styled-Components, SASS, Firebase],
   challenge: "I'm doing personal projects focused on react & typescript",
+  working: "Topty.com.co" 😄
 }
 ```
 You can find me in
