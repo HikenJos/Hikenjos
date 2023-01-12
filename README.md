@@ -4,7 +4,7 @@
 const HikenJos = {
   pronouns: "he" | "him",
   code: [JavaScript, TypeScript, Html, Css],
-  tools: [React, Node, Styled-Components, Firebase],
+  tools: [React, NextJS, Flutter, Node, Styled-Components, SASS, Firebase],
   challenge: "I'm doing personal projects focused on react & typescript",
 }
 ```
