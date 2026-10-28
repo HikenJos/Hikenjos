@@ -6,7 +6,7 @@ const HikenJos = {
   code: [JavaScript, TypeScript, Java, Dart, Python, Html, Css],
   tools: [React, NextJS, Flutter, Nest, Spring, Node, Styled-Components, SASS, Postgrest, Supabase, Firebase],
   challenge: "I'm doing personal projects focused on Java, Spring & typescript",
-  working: "Topty.com.co" 😄
+  I’m looking to collaborate with you. 😄
 }
 ```
 You can find me in
