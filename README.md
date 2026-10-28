@@ -3,9 +3,9 @@
 ```js
 const HikenJos = {
   pronouns: "he" | "him",
-  code: [JavaScript, TypeScript, Html, Css],
-  tools: [React, NextJS, Flutter, Node, Styled-Components, SASS, Firebase],
-  challenge: "I'm doing personal projects focused on react & typescript",
+  code: [JavaScript, TypeScript, Java, Dart, Python, Html, Css],
+  tools: [React, NextJS, Flutter, Nest, Spring, Node, Styled-Components, SASS, Postgrest, Supabase, Firebase],
+  challenge: "I'm doing personal projects focused on Java, Spring & typescript",
   working: "Topty.com.co" 😄
 }
 ```
